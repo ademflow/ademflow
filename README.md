@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+-` ☾ welcome to my space , `-
+  
+*｡꙳ ⋆｡˚☽˚｡⋆*
 
-<!--
-**ademflow/ademflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+★ aspiring python developer | learning by doing ★
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⋆.˚ About Me ˚.⋆
+
+*   **Introverted dev** currently sharpening my skills and grinding through coursework.
+*   Focused on **Python** and building my first real-world projects.
+*   Taking it one line of code at a time to build a better future.
+
+### ☾ current focus ☾
+
+*   **Coding:** Sharpening Python fundamentals & crushing my upcoming exams.
+*   **Projects:** Building a foundation for my first portfolio.
+*   **Motivation:** Turning "lazy" habits into daily discipline.
+
+---
+
+*｡꙳ ⋆｡˚☽˚｡⋆*
+*happy coding*
+</div>
