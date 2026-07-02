@@ -20,7 +20,7 @@
 *   **Motivation:** Turning "lazy" habits into daily discipline.
 
 ### ⟡ reach me ⟡
-[**LinkedIn**](www.linkedin.com/in/ademgallopeni) | **Discord:** `@ademflow_`
+[**LinkedIn**](www.linkedin.com/in/ademgallopeni) | **Discord:** [@ademflow_](https://discord.com/users/487705546330472448)
 *｡꙳ ⋆｡˚☽˚｡⋆*
 
 ---
