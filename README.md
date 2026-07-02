@@ -19,8 +19,11 @@
 *   **Projects:** Building a foundation for my first portfolio.
 *   **Motivation:** Turning "lazy" habits into daily discipline.
 
+### ⟡ reach me ⟡
+[**LinkedIn**](www.linkedin.com/in/ademgallopeni) | **Discord:** `@ademflow_`
+*｡꙳ ⋆｡˚☽˚｡⋆*
+
 ---
 
-*｡꙳ ⋆｡˚☽˚｡⋆*
 *happy coding*
 </div>
